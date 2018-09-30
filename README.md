@@ -1,2 +1,3 @@
 # generalAssembly1
-touch file01.txt
+commit -m "no idea what I'm doing really"
+
